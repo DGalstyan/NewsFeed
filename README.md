@@ -33,7 +33,12 @@ How it Works
 4. Presenter implementation calls view methods to update the UI by calling view interface.
 
 
+Android versions
 ==========
 Min Sdk Version 17 <br/>
 Target Sdk Version 25 <br/>
 Compile Sdk Version 25
+
+Developed By
+==========
+David Galstyan
