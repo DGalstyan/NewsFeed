@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--dimens.xml-->
+<resources>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="default_elevation">8dp</dimen>
+
+    <dimen name="pad_2dp">2dp</dimen>
+    <dimen name="pad_5dp">5.0dp</dimen>
+    <dimen name="pad_10dp">10.0dp</dimen>
+    <dimen name="pad_15dp">15dp</dimen>
+    <dimen name="pad_30dp">30dp</dimen>
+
+
+    <dimen name="sp_12sp">12.0sp</dimen>
+    <dimen name="sp_14sp">14.0sp</dimen>
+    <dimen name="sp_16sp">16.0sp</dimen>
+    <dimen name="sp_18sp">18.0sp</dimen>
+    <dimen name="sp_20sp">20.0sp</dimen>
+    <dimen name="sp_22sp">22.0sp</dimen>
+    <dimen name="sp_30sp">30.0sp</dimen>
+
+    <dimen name="height_image">200dp</dimen>
+    <dimen name="margin_title_right">75dp</dimen>
+</resources>

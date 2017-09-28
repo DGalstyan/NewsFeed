@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c62828</color>
+    <color name="colorPrimaryDark">#8e0000</color>
+    <color name="colorPrimaryLight">#ff5f52</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="network">#ffb400</color>
+    <color name="green">#4ABD9C</color>
+    <color name="grey">#FFDEDADA</color>
+    <color name="materialGrey">#616161</color>
+    <color name="widePosterBG">#ddd</color>
+    <color name="black">#000000</color>
+    <color name="mediumGreen">#dee8e2</color>
+
+
+    <color name="categoryColor">#2b5a83</color>
+</resources>
